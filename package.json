@@ -1,0 +1,23 @@
+{
+  "name": "react-use-storage",
+  "version": "1.0.0",
+  "description": "Can manipulate the most popular browser storages easily",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "/dist"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lucas Zenerato and Bruno Moraes",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/LSZenerato/helloworld.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LSZenerato/helloworld/issues"
+  },
+  "homepage": "https://github.com/LSZenerato/helloworld#readme"
+}
